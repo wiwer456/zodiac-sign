@@ -62,5 +62,5 @@ else if (((date >= 19 && date <= 29) && month == 2) || ((date >= 1 && date <= 20
 }
 
 Console.WriteLine("---------------------------------------------------------S");
-Console.WriteLine($"\nВаше имя: {name}, Ваша фамилия: {surename}, Ваш знак зодиака: {zd}");
+Console.WriteLine($"Ваше имя: {name}, Ваша фамилия: {surename}, Ваш знак зодиака: {zd}");
 ```
